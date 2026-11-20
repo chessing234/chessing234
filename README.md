@@ -2,7 +2,7 @@
 
 I’m a student and programmer in Mumbai. I teach computer science and raise funds for education in Palghar. I also work on open-source software, language-model memory, and mathematics in Lean.
 
-[GitHub](https://github.com/Chessing234) · [LinkedIn](https://www.linkedin.com/in/chessing234/) · [X](https://x.com/chessing234) · [ORCID](https://orcid.org/0009-0003-7032-5740) · [Instagram](https://www.instagram.com/taksh_.kothari/)
+[GitHub](https://github.com/Chessing234) · [LinkedIn](https://www.linkedin.com/in/chessing234/) · [X](https://x.com/chessing234) · [ORCID](https://orcid.org/0009-0003-7032-5740) · [Instagram](https://www.instagram.com/chessing234/)
 
 ## Teaching & fundraising
 
