@@ -11,7 +11,7 @@ I’m a student and programmer in Mumbai. I teach computer science and raise fun
 - **Recommendation from [Palghar’s MP](https://prsindia.org/mptrack/18-lok-sabha/hemant-vishnu-savara).** In September 2026, Dr. Hemant Vishnu Savara commended my work with tribal communities in Palghar and recommended me for academic, research, leadership, and community-service opportunities. His letter describes the work I did on school visits, teacher recruitment, fundraising, and health outreach.
 - **[Shortest Path to IOI (SPOI)](https://spoi.org.in/team).** I led editorial work and wrote about 40 competitive programming editorials for students preparing for informatics olympiads. The program offers [free mentorship](https://codeforces.com/blog/entry/142513), and I’m listed on the [SPOI team](https://spoi.org.in/team/taksh-kothari).
 - **T.U.R.A.** I helped write a [free competitive programming book](https://github.com/T-U-R-A/tura-coding-book) with explanations and worked solutions for the [CSES Problem Set](https://cses.fi/problemset/).
-- **Urban Earth.** With [Ateeque Malani](https://www.che.iitb.ac.in/faculty-page/ateeque-malani) and researchers at IIT Bombay, I built a Markov-chain model of composting. We diverted about 5,000 kg of wet waste and shared compost and citrus bioenzymes with neighbors.
+- **Urban Earth.** I built a Markov-chain model of composting. We diverted about 5,000 kg of wet waste and shared compost and citrus bioenzymes with neighbors.
 
 ## Work
 
